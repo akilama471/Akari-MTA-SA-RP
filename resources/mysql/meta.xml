@@ -1,0 +1,19 @@
+<meta>
+	<script src="mysql.lua" type="server" />
+	
+	<export function="escape_string"/>
+	
+	<export function="query_free"/>
+	
+	<export function="query_assoc"/>
+	
+	<export function="query_assoc_single"/>
+	
+	<export function="query_insertid"/>
+	
+	<export function="query_affected_rows"/>
+	
+	<script src="layout.lua" type="server" />
+	
+	<export function="create_table"/>
+</meta>

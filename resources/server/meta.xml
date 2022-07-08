@@ -1,0 +1,4 @@
+<meta>
+    <script src="message.lua"/>
+    <export function="message"/>
+</meta>

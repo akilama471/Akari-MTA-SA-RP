@@ -1,0 +1,12 @@
+<settings>
+    <setting name="admin.ip2cUpdateTime" value="[1653187850]"></setting>
+
+    <setting name="@mysql.user" value="gmanger"/>
+    <setting name="@mysql.password" value="7B8T*VSCT[X_WeF"/>
+    <setting name="@mysql.database" value="akr_mta"/>
+    <setting name="@mysql.hostname" value="localhost"/>
+    <setting name="@mysql.port" value="3306"/>
+
+    <setting name="@players.allow_registration" value="1"/>
+    <setting name="@players.registration_error_message" value="Edit this to show the user a message when registration is disabled"/>
+</settings>

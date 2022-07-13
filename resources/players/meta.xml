@@ -3,11 +3,10 @@
     <min_mta_version client="1.5.6-9.16361"></min_mta_version>
 
     <script src="main.lua" type="server" />
+    <script src="main_c.lua" type="client" />
 
-    <script src="c_user_gui.lua" type="client" />
     <export function="selectCharacter" type="client"/>
-    <export function="hideCgui" type="client"/>
-
+    
     <script src="function.lua" type="server" />
 
     <export function="getGroups"/> <!-- ok -->

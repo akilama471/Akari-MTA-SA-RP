@@ -1,0 +1,8 @@
+<meta>
+  <info author="Kilerzack" type="script" name="dxgui"/>
+  <script src="c_login.lua" type="client" cache="false"/>
+  <script src="c_register.lua" type="client" cache="false"/>
+  <script src="c_forget.lua" type="client" cache="false"/>
+  <script src="c_dxgui.lua" type="server"/>
+  <script src="c_windows.lua" type="client"/>
+</meta>

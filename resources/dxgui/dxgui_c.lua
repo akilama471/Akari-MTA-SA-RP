@@ -1,1 +1,0 @@
-screenW, screenH = guiGetScreenSize()
